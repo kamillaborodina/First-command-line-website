@@ -1,2 +1,2 @@
 # First-command-line-website
-# Just for learning purposes
+Just for learning purposes
